@@ -1,0 +1,1 @@
+eksctl create iamserviceaccount --cluster=eks-game-cluster --region us-east-1 --namespace=kube-system --name=aws-load-balancer-controller --role-name AmazonEKSLoadBalancerControllerRole --attach-policy-arn=arn:aws:iam::<account-id>:policy/AWSLoadBalancerControllerIAMPolicy --approve

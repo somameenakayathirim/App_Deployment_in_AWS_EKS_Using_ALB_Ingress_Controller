@@ -1,0 +1,1 @@
+eksctl utils associate-iam-oidc-provider --cluster eks-game-cluster --region us-east-1 --approve
