@@ -50,10 +50,18 @@ kubectl apply -f kubernetes/ingress.yml
 ```
 Here is the screenshot of Pods,Service,Ingress, AWS load balancer controller.
 ![Screenshot](images/pods.png)
+
 ![Screenshot](images/service.png)
+
 ![Screenshot](images/ingress.png)
+
 ![Screenshot](images/aws-load-balancer-controller-deployment.png)
 
 In AWS console, load balancer controller,
+
 ![Screenshot](images/application-load-balancer-controller.png)
+
+Launch the application using application load balancer controller dns as below, 
+
+![Screenshot](images/app-game2048.png)
 
