@@ -2,6 +2,9 @@
 
 This repository for setting up EKS clusters and configuring app deployment with Ingress using AWS Load Balancer Controller.
 
+## Pre requisite
+1.AWS CLI
+2.Kubectl
 
 ## Directory Structure
 
