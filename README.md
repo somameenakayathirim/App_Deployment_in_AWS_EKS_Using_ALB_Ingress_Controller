@@ -1,3 +1,5 @@
+![AWS Badge](https://img.shields.io/badge/AWS-Project-blue)
+
 # AWS-EKS-Cluster-With-Ingress
 
 This repository for setting up EKS clusters and configuring app deployment with Ingress using AWS Load Balancer Controller.
